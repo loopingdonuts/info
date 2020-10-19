@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/loopingdonuts/info/main/logo.png" width="150px"/>
+  <img alt="Logo" src="https://raw.githubusercontent.com/loopingdonuts/info/main/logo.png" width="150px"/>
 </p>
 
 <h1 align="center">Looping Donuts</h1>
